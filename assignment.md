@@ -109,5 +109,5 @@ The manifests can be saved in a `manifests` directory.
 - [ ] Update the kubernetes manifests to support the postgres backend
 
 ## Monitoring
-- [ ] Create a service monitor objects for prometheus to scrape the metrics
-- [ ] Create a markdown document describing what SLO you would set for this application
+- [ ] Create a service monitor objects for prometheus to scrape the metrics from the cluster
+- [ ] Create a markdown document describing what SLO youS would set for this application

@@ -87,7 +87,7 @@ Check list:
 3. **Kubernetes deployment fails**: Verify storage class and ingress controller
 4. **Metrics not scraped**: Confirm ServiceMonitor and Prometheus Operator
 
-### Debug Commands
+### Debug Cmds
 ```bash
 # Docker debugging
 docker logs <container-id>
